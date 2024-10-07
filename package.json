@@ -1,9 +1,5 @@
 {
-<<<<<<< HEAD
-  "name": "ghactions-tdd-seg-1",
-=======
-  "name": "ghactions-tdd-seg",
->>>>>>> upstream/main
+  "name": "ghactions-tdd-seg", // Use o nome que você escolheu
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
