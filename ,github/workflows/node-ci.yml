@@ -31,4 +31,4 @@ jobs:
 
     steps:
       - name: Sucesso
-        ram: echo "Deploying..."
+        rum: echo "Deploying..."
